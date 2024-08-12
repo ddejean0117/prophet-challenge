@@ -1,4 +1,4 @@
-# data-sourcing-challenge
+# prophet-challenge
 #### Danielle Dejean 
 AI Bootcamp - Module Challenge #8,
 11 August 2024
@@ -20,7 +20,7 @@ This code analyzes Mercado Libre's ecommerce search trend and closing stock pric
 In Terminal (Mac) or GitBash (Windows):
 * Ensure that you're running the correct version of Python (see Set Up above)
 * Ensure that you're in the directory containing the file before running
-* In Google Collab, open "retrieve_movie_data.ipynb" and click "Run All"
+* In Google Collab, open "retrieve_movie_data.ipynb" and click "Run All" from the runtime menu
 * The program will produce several plots 
 ## References
 * The forecasting_net_prophet.ipynb starter file was downloaded from the AI-PT-WEST-MAY-052824_MTTH Module 8 Challenge files and edited to analyze the data.
